@@ -1,1 +1,1 @@
-# HHG
+Sharpner projects of DOM
